@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shashankreddy999
+- ✌  Feel free to visit my profile and look at my repos at https://github.com/shashankreddy999
 - 👀 I’m interested in various fields of Computer Science such as Computer Vision, Machine Learning
 - 🌱 I’m currently learning Web Development (MERN stack and Django)
 - 💞️ I’m looking to collaborate on any project which might help me learn new tech
